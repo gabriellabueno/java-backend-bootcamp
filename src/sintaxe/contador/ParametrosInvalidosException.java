@@ -1,3 +1,5 @@
+package sintaxe.contador;
+
 public class ParametrosInvalidosException extends Exception {
 
     public ParametrosInvalidosException() {

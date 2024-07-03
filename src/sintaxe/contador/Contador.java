@@ -1,3 +1,4 @@
+package sintaxe.contador;
 import java.util.Scanner;
 
 public class Contador {

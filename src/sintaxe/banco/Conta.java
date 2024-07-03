@@ -1,3 +1,5 @@
+package sintaxe.banco;
+
 public class Conta {
 
     int numeroConta;

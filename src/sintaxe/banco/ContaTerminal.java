@@ -1,3 +1,4 @@
+package sintaxe.banco;
 import java.util.Scanner;
 
 public class ContaTerminal {
