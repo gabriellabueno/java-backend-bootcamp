@@ -7,8 +7,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 
-/out/
-workspace.xml
+out/
+.idea/workspace.xml
 vcs.xml
 uiDesigner.xml
 
