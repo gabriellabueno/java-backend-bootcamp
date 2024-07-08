@@ -1,4 +1,4 @@
-package poo.desafio.utilitarios;
+package poo.desafioIPhone.utilitarios;
 
 public interface ReprodutorMusical {
     public void tocar();

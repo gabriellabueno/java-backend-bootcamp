@@ -1,8 +1,8 @@
-package poo.desafio.produtos;
+package poo.desafioIPhone.produtos;
 
-import poo.desafio.utilitarios.AparelhoTelefonico;
-import poo.desafio.utilitarios.Navegador;
-import poo.desafio.utilitarios.ReprodutorMusical;
+import poo.desafioIPhone.utilitarios.AparelhoTelefonico;
+import poo.desafioIPhone.utilitarios.Navegador;
+import poo.desafioIPhone.utilitarios.ReprodutorMusical;
 
 public class IPhone implements Navegador, AparelhoTelefonico, ReprodutorMusical {
 

@@ -1,6 +1,6 @@
-package poo.desafio.produtos;
+package poo.desafioIPhone.produtos;
 
-import poo.desafio.utilitarios.ReprodutorMusical;
+import poo.desafioIPhone.utilitarios.ReprodutorMusical;
 
 public class IPod implements ReprodutorMusical {
 

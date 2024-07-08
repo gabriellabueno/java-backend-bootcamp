@@ -1,5 +1,5 @@
-package poo.desafio.produtos;
-import poo.desafio.utilitarios.Navegador;
+package poo.desafioIPhone.produtos;
+import poo.desafioIPhone.utilitarios.Navegador;
 
 public class Macintosh implements Navegador {
 

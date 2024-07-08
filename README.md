@@ -9,4 +9,5 @@ Aqui, você encontrará uma variedade de aplicações e exercícios que demonstr
 
 ## Desafios
 
-- [Programação Orientada a Objetos | Diagrama UML](src/poo/desafio/diagrama-uml.md)  
+- [Programação Orientada a Objetos | Diagrama UML](src/poo/desafioIPhone/diagrama-uml.md)  
+- [Programação Orientada a Objetos | Banco Digital](src/poo/desafioBancoDigital)  

@@ -1,4 +1,4 @@
-package poo.desafio.utilitarios;
+package poo.desafioIPhone.utilitarios;
 
 public interface AparelhoTelefonico {
     public void ligar(String numero);
