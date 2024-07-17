@@ -1,6 +1,6 @@
-package poo.desafioIPhone;
+package poo.desafio.iphone;
 
-import poo.desafioIPhone.produtos.IPhone;
+import poo.desafio.iphone.produtos.IPhone;
 
 public class Apple {
     public static void main(String[] args) {

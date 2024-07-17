@@ -1,6 +1,6 @@
-package poo.desafioBancoDigital.contas;
+package poo.desafio.bancodigital.contas;
 
-import poo.desafioBancoDigital.entidades.Cliente;
+import poo.desafio.bancodigital.entidades.Cliente;
 
 public class ContaPoupanca extends Conta {
 

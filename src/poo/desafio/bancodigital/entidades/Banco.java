@@ -1,6 +1,6 @@
-package poo.desafioBancoDigital.entidades;
+package poo.desafio.bancodigital.entidades;
 
-import poo.desafioBancoDigital.contas.Conta;
+import poo.desafio.bancodigital.contas.Conta;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package poo.desafioBancoDigital.entidades;
+package poo.desafio.bancodigital.entidades;
 
 public class Cliente {
     private String nome;

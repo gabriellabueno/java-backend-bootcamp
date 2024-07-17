@@ -1,4 +1,4 @@
-package poo.desafioIPhone.utilitarios;
+package poo.desafio.iphone.utilitarios;
 
 public interface Navegador {
     public void exibirPagina(String url);

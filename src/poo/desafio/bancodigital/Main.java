@@ -1,8 +1,8 @@
-package poo.desafioBancoDigital;
+package poo.desafio.bancodigital;
 
-import poo.desafioBancoDigital.contas.ContaCorrente;
-import poo.desafioBancoDigital.contas.ContaPoupanca;
-import poo.desafioBancoDigital.entidades.Cliente;
+import poo.desafio.bancodigital.contas.ContaCorrente;
+import poo.desafio.bancodigital.contas.ContaPoupanca;
+import poo.desafio.bancodigital.entidades.Cliente;
 
 public class Main {
     public static void main(String[] args) {
