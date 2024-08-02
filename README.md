@@ -31,11 +31,21 @@ Aqui, você encontrará aplicações e exercícios que demonstram minhas habilid
   - Maven
   - Testes Unitários
   - JUnit e Mockito
+- **Banco de Dados**
+  - Bancos de Dados Relacionais
+  - Linguagem SQL com MariaDB
+  - Bancos de Dados NoSQL com MongoDB
+- **Spring Framework**
+  - API REST
+  - Documentação com Swagger
+  - Segurança com Spring Security
+  - Design Patterns
 
 ## Exercícios
 
 - [Sintaxe Java](sintaxe)  
-- [Testes Unitários | JUnit e Mockito](testesunitarios)    
+- [Testes Unitários | JUnit e Mockito](testesunitarios/src)    
+- [Banco de Dados Relacionais | SQL e MariaDB](sqlmariadb/src/main/java/sql/mariadb/app/MariadbConnection.java)
 
 ## Desafios / Projetos
 
@@ -43,5 +53,6 @@ Aqui, você encontrará aplicações e exercícios que demonstram minhas habilid
 
 - [Diagrama UML](poo/desafio/iphone/diagrama-uml.md)  
 - [Banco Digital](poo/desafio/bancodigital)  
-- [Domínio e Abstração](poo/desafio/bootcamp)      
+- [Domínio e Abstração](poo/desafio/bootcamp)  
+- [REST API | SpringBoot e MongoDB](https://github.com/gabriellabueno/rest-api-desafio-dio)
 

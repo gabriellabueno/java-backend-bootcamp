@@ -44,7 +44,7 @@ public class MariadbConnection  {
             sql = "UPDATE teacher SET subject = 'history' WHERE NO = '201002'";
             stmt.executeUpdate(sql);
 
-            sql = "select * from teacher";
+            sql = "SELECT * FROM teacher";
             ResultSet rs = stmt.executeQuery(sql); // Executa instrução, retorna dados
             System.out.println("No.\tName \tSubject");
 
