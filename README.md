@@ -49,10 +49,12 @@ Aqui, você encontrará aplicações e exercícios que demonstram minhas habilid
 
 ## Desafios / Projetos
 
-### POO
+- [REST API | SpringBoot e MongoDB](https://github.com/gabriellabueno/rest-api-desafio-dio)
+
+#### POO
 
 - [Diagrama UML](poo/desafio/iphone/diagrama-uml.md)  
 - [Banco Digital](poo/desafio/bancodigital)  
 - [Domínio e Abstração](poo/desafio/bootcamp)  
-- [REST API | SpringBoot e MongoDB](https://github.com/gabriellabueno/rest-api-desafio-dio)
+
 
